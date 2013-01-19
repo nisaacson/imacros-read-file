@@ -1,0 +1,23 @@
+{
+  "name": "imacros-read-file",
+  "version": "0.0.0",
+  "description": "read the contents of a file on disk at a given path",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nisaacson/imacros-read-file.git"
+  },
+  "keywords": [
+    "imacros"
+  ],
+  "author": "Noah Isaacson",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "8545917d7687e7ed38205dc98a1058bc5967bed0"
+}
